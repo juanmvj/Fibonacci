@@ -1,3 +1,8 @@
+/**
+ * Juan MAnuel Vázquez Jiménez
+ * José Alfonso Altamirano Leal
+ */
+
 #include <stdio.h>
 
 unsigned int Fibonacci(unsigned int n)
