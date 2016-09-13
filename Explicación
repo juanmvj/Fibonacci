@@ -1,5 +1,5 @@
 Iterativo : 10000000000000000000
 Recursivo : 51 (hasta este número ya no hizo nada la computadora solo se quedaba corriendo el programa)
 
-En mi opinion, en el método recursivo al ser un procedimiento mas extenso al momento de ejecutarse como las variables y demás
-hace que la memoria RAM llegue a desbordarse (aunque no precisamente) o saturarse.
+En mi opinion, en el método recursivo al ser un procedimiento mas extenso al momento de ejecutarse como las variables y demás,
+hace que la pila del microporcesador llegue a desbordarse (aunque no precisamente) o saturarse.
